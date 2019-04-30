@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OBSCountdown": {
+      "commandName": "Project",
+      "commandLineArgs": "10"
+    }
+  }
+}
